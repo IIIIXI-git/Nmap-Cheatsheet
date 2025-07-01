@@ -1,7 +1,7 @@
-# Nmap Cheat Sheet
+# Nmap Cheat sheet
 Reference guide for scanning networks with Nmap.
 
-**Table of Contents**
+**Table of contant**
 1. [What is Nmap?](#what-is-nmap)  
 2. [How to Use Nmap](#how-to-use-nmap)  
     1. [Command Line](#command-line) 
